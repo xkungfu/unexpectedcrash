@@ -14,3 +14,7 @@ Compiler: winlibs personal build version gcc-9.3.1-snapshot20210402-mingw-w64-8.
  the app still often crashes.
  
  
+ 
+![image](https://github.com/xkungfu/unexpectedcrash/blob/main/test1.png)
+![image](https://github.com/xkungfu/unexpectedcrash/blob/main/test2.png)
+![image](https://github.com/xkungfu/unexpectedcrash/blob/main/test3.png)

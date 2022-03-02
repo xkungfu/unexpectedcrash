@@ -1,0 +1,270 @@
+{
+	"BUILD_DIR" : "I:/CXXProject/STOCKTEST/GAMMA_V2/demo/build-catchfly-MinGW64V800r1_GCCV931_QTV5152-Debug/catchfly_autogen",
+	"CMAKE_BINARY_DIR" : "I:/CXXProject/STOCKTEST/GAMMA_V2/demo/build-catchfly-MinGW64V800r1_GCCV931_QTV5152-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "I:/CXXProject/STOCKTEST/GAMMA_V2/demo/build-catchfly-MinGW64V800r1_GCCV931_QTV5152-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "I:/CXXProject/STOCKTEST/GAMMA_V2/demo/catchfly",
+	"CMAKE_EXECUTABLE" : "I:/CXXTools/Qt/Tools/CMake_64/bin/cmake.exe",
+	"CMAKE_LIST_FILES" : 
+	[
+		"I:/CXXProject/STOCKTEST/GAMMA_V2/demo/catchfly/CMakeLists.txt",
+		"I:/CXXTools/Qt/Tools/Preview/Qt Creator 7.0.0-beta1/share/qtcreator/package-manager/auto-setup.cmake",
+		"I:/CXXProject/STOCKTEST/GAMMA_V2/demo/build-catchfly-MinGW64V800r1_GCCV931_QTV5152-Debug/CMakeFiles/3.21.1/CMakeSystem.cmake",
+		"I:/CXXTools/Qt/Tools/CMake_64/share/cmake-3.21/Modules/CMakeSystemSpecificInitialize.cmake",
+		"I:/CXXProject/STOCKTEST/GAMMA_V2/demo/build-catchfly-MinGW64V800r1_GCCV931_QTV5152-Debug/CMakeFiles/3.21.1/CMakeCXXCompiler.cmake",
+		"I:/CXXTools/Qt/Tools/CMake_64/share/cmake-3.21/Modules/CMakeSystemSpecificInformation.cmake",
+		"I:/CXXTools/Qt/Tools/CMake_64/share/cmake-3.21/Modules/CMakeGenericSystem.cmake",
+		"I:/CXXTools/Qt/Tools/CMake_64/share/cmake-3.21/Modules/CMakeInitializeConfigs.cmake",
+		"I:/CXXTools/Qt/Tools/CMake_64/share/cmake-3.21/Modules/Platform/Windows.cmake",
+		"I:/CXXTools/Qt/Tools/CMake_64/share/cmake-3.21/Modules/Platform/WindowsPaths.cmake",
+		"I:/CXXTools/Qt/Tools/CMake_64/share/cmake-3.21/Modules/CMakeCXXInformation.cmake",
+		"I:/CXXTools/Qt/Tools/CMake_64/share/cmake-3.21/Modules/CMakeLanguageInformation.cmake",
+		"I:/CXXTools/Qt/Tools/CMake_64/share/cmake-3.21/Modules/Compiler/GNU-CXX.cmake",
+		"I:/CXXTools/Qt/Tools/CMake_64/share/cmake-3.21/Modules/Compiler/GNU.cmake",
+		"I:/CXXTools/Qt/Tools/CMake_64/share/cmake-3.21/Modules/Compiler/CMakeCommonCompilerMacros.cmake",
+		"I:/CXXTools/Qt/Tools/CMake_64/share/cmake-3.21/Modules/Platform/Windows-GNU-CXX.cmake",
+		"I:/CXXTools/Qt/Tools/CMake_64/share/cmake-3.21/Modules/Platform/Windows-GNU.cmake",
+		"I:/CXXProject/STOCKTEST/GAMMA_V2/demo/build-catchfly-MinGW64V800r1_GCCV931_QTV5152-Debug/CMakeFiles/3.21.1/CMakeRCCompiler.cmake",
+		"I:/CXXTools/Qt/Tools/CMake_64/share/cmake-3.21/Modules/CMakeRCInformation.cmake",
+		"I:/CXXTools/Qt/Tools/CMake_64/share/cmake-3.21/Modules/Platform/Windows-windres.cmake",
+		"I:/CXXTools/Qt/Tools/CMake_64/share/cmake-3.21/Modules/Platform/Windows-GNU-CXX-ABI.cmake",
+		"I:/CXXTools/Qt/Tools/CMake_64/share/cmake-3.21/Modules/CMakeCommonLanguageInclude.cmake",
+		"I:/CXXTools/Qt/5.15.2/mingw81_64/lib/cmake/Qt5/Qt5ConfigVersion.cmake",
+		"I:/CXXTools/Qt/5.15.2/mingw81_64/lib/cmake/Qt5/Qt5Config.cmake",
+		"I:/CXXTools/Qt/5.15.2/mingw81_64/lib/cmake/Qt5/Qt5ModuleLocation.cmake",
+		"I:/CXXTools/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake",
+		"I:/CXXTools/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Core/Qt5CoreConfig.cmake",
+		"I:/CXXTools/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Core/Qt5CoreConfigExtras.cmake",
+		"I:/CXXTools/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake",
+		"I:/CXXTools/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Core/Qt5CoreMacros.cmake",
+		"I:/CXXTools/Qt/Tools/CMake_64/share/cmake-3.21/Modules/CMakeParseArguments.cmake",
+		"I:/CXXTools/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake",
+		"I:/CXXTools/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake",
+		"I:/CXXTools/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake",
+		"I:/CXXTools/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5GuiConfig.cmake",
+		"I:/CXXTools/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QGifPlugin.cmake",
+		"I:/CXXTools/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QICNSPlugin.cmake",
+		"I:/CXXTools/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QICOPlugin.cmake",
+		"I:/CXXTools/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QJpegPlugin.cmake",
+		"I:/CXXTools/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QMinimalIntegrationPlugin.cmake",
+		"I:/CXXTools/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QOffscreenIntegrationPlugin.cmake",
+		"I:/CXXTools/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QSvgIconPlugin.cmake",
+		"I:/CXXTools/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QSvgPlugin.cmake",
+		"I:/CXXTools/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QTgaPlugin.cmake",
+		"I:/CXXTools/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QTiffPlugin.cmake",
+		"I:/CXXTools/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QTuioTouchPlugin.cmake",
+		"I:/CXXTools/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QVirtualKeyboardPlugin.cmake",
+		"I:/CXXTools/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QWbmpPlugin.cmake",
+		"I:/CXXTools/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QWebGLIntegrationPlugin.cmake",
+		"I:/CXXTools/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QWebpPlugin.cmake",
+		"I:/CXXTools/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QWindowsDirect2DIntegrationPlugin.cmake",
+		"I:/CXXTools/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QWindowsIntegrationPlugin.cmake",
+		"I:/CXXTools/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QXdgDesktopPortalThemePlugin.cmake",
+		"I:/CXXTools/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake",
+		"I:/CXXTools/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Widgets/Qt5Widgets_QWindowsVistaStylePlugin.cmake",
+		"I:/CXXTools/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake",
+		"I:/CXXTools/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake",
+		"I:/CXXTools/Qt/Tools/CMake_64/share/cmake-3.21/Modules/CMakeParseArguments.cmake",
+		"I:/CXXTools/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake",
+		"I:/CXXTools/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5GuiConfig.cmake",
+		"I:/CXXTools/Qt/5.15.2/mingw81_64/lib/cmake/Qt5PrintSupport/Qt5PrintSupportConfigVersion.cmake",
+		"I:/CXXTools/Qt/5.15.2/mingw81_64/lib/cmake/Qt5PrintSupport/Qt5PrintSupportConfig.cmake",
+		"I:/CXXTools/Qt/5.15.2/mingw81_64/lib/cmake/Qt5PrintSupport/Qt5PrintSupport_QWindowsPrinterSupportPlugin.cmake",
+		"I:/CXXTools/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Sql/Qt5SqlConfigVersion.cmake",
+		"I:/CXXTools/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Sql/Qt5SqlConfig.cmake",
+		"I:/CXXTools/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Sql/Qt5Sql_QODBCDriverPlugin.cmake",
+		"I:/CXXTools/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Sql/Qt5Sql_QPSQLDriverPlugin.cmake",
+		"I:/CXXTools/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Sql/Qt5Sql_QSQLiteDriverPlugin.cmake",
+		"I:/CXXTools/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Xml/Qt5XmlConfigVersion.cmake",
+		"I:/CXXTools/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Xml/Qt5XmlConfig.cmake",
+		"I:/CXXTools/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Network/Qt5NetworkConfigVersion.cmake",
+		"I:/CXXTools/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Network/Qt5NetworkConfig.cmake",
+		"I:/CXXTools/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Network/Qt5Network_QGenericEnginePlugin.cmake",
+		"I:/CXXTools/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Concurrent/Qt5ConcurrentConfigVersion.cmake",
+		"I:/CXXTools/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Concurrent/Qt5ConcurrentConfig.cmake",
+		"I:/CXXlibs/DATAFRAME/DataFrame-2022-02-28/cmakeinstalled/lib/cmake/DataFrame/DataFrameConfigVersion.cmake",
+		"I:/CXXlibs/DATAFRAME/DataFrame-2022-02-28/cmakeinstalled/lib/cmake/DataFrame/DataFrameConfig.cmake",
+		"I:/CXXTools/Qt/Tools/CMake_64/share/cmake-3.21/Modules/CMakeFindDependencyMacro.cmake",
+		"I:/CXXTools/Qt/Tools/CMake_64/share/cmake-3.21/Modules/FindThreads.cmake",
+		"I:/CXXTools/Qt/Tools/CMake_64/share/cmake-3.21/Modules/CheckLibraryExists.cmake",
+		"I:/CXXTools/Qt/Tools/CMake_64/share/cmake-3.21/Modules/CheckIncludeFileCXX.cmake",
+		"I:/CXXTools/Qt/Tools/CMake_64/share/cmake-3.21/Modules/CheckCXXSourceCompiles.cmake",
+		"I:/CXXTools/Qt/Tools/CMake_64/share/cmake-3.21/Modules/Internal/CheckSourceCompiles.cmake",
+		"I:/CXXTools/Qt/Tools/CMake_64/share/cmake-3.21/Modules/FindPackageHandleStandardArgs.cmake",
+		"I:/CXXTools/Qt/Tools/CMake_64/share/cmake-3.21/Modules/FindPackageMessage.cmake",
+		"I:/CXXlibs/DATAFRAME/DataFrame-2022-02-28/cmakeinstalled/lib/cmake/DataFrame/DataFrameTargets.cmake",
+		"I:/CXXlibs/DATAFRAME/DataFrame-2022-02-28/cmakeinstalled/lib/cmake/DataFrame/DataFrameTargets-noconfig.cmake"
+	],
+	"CMAKE_SOURCE_DIR" : "I:/CXXProject/STOCKTEST/GAMMA_V2/demo/catchfly",
+	"DEP_FILE" : "I:/CXXProject/STOCKTEST/GAMMA_V2/demo/build-catchfly-MinGW64V800r1_GCCV931_QTV5152-Debug/catchfly_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "catchfly_autogen/timestamp",
+	"HEADERS" : 
+	[
+		[
+			"I:/CXXProject/STOCKTEST/GAMMA_V2/demo/catchfly/Board/containsshow/candleboardcontains.h",
+			"MU",
+			"ZUXGHDDAYI/moc_candleboardcontains.cpp",
+			null
+		],
+		[
+			"I:/CXXProject/STOCKTEST/GAMMA_V2/demo/catchfly/Plot/CandleCreatorDF.h",
+			"MU",
+			"45X7Y3CNVI/moc_CandleCreatorDF.cpp",
+			null
+		],
+		[
+			"I:/CXXProject/STOCKTEST/GAMMA_V2/demo/catchfly/RealTime/RealtimeData.h",
+			"MU",
+			"XJJRPYR3GA/moc_RealtimeData.cpp",
+			null
+		],
+		[
+			"I:/CXXProject/STOCKTEST/GAMMA_V2/demo/catchfly/RealTime/RealtimeMonitor.h",
+			"MU",
+			"XJJRPYR3GA/moc_RealtimeMonitor.cpp",
+			null
+		],
+		[
+			"I:/CXXProject/STOCKTEST/GAMMA_V2/demo/catchfly/RealTime/boardsnapshot.h",
+			"MU",
+			"XJJRPYR3GA/moc_boardsnapshot.cpp",
+			null
+		],
+		[
+			"I:/CXXProject/STOCKTEST/GAMMA_V2/demo/catchfly/global.h",
+			"MU",
+			"EWIEGA46WW/moc_global.cpp",
+			null
+		],
+		[
+			"I:/CXXProject/STOCKTEST/GAMMA_V2/demo/catchfly/globalplus.h",
+			"MU",
+			"EWIEGA46WW/moc_globalplus.cpp",
+			null
+		],
+		[
+			"I:/CXXProject/STOCKTEST/GAMMA_V2/demo/catchfly/mainwindow.h",
+			"MU",
+			"EWIEGA46WW/moc_mainwindow.cpp",
+			null
+		],
+		[
+			"I:/CXXProject/STOCKTEST/GAMMA_V2/demo/catchfly/qcustomplot.h",
+			"MU",
+			"EWIEGA46WW/moc_qcustomplot.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "I:/CXXProject/STOCKTEST/GAMMA_V2/demo/build-catchfly-MinGW64V800r1_GCCV931_QTV5152-Debug/catchfly_autogen/include",
+	"MOC_COMPILATION_FILE" : "I:/CXXProject/STOCKTEST/GAMMA_V2/demo/build-catchfly-MinGW64V800r1_GCCV931_QTV5152-Debug/catchfly_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"QT_CONCURRENT_LIB",
+		"QT_CORE_LIB",
+		"QT_GUI_LIB",
+		"QT_NETWORK_LIB",
+		"QT_PRINTSUPPORT_LIB",
+		"QT_SQL_LIB",
+		"QT_WIDGETS_LIB",
+		"QT_XML_LIB"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"I:/CXXProject/STOCKTEST/GAMMA_V2/demo/build-catchfly-MinGW64V800r1_GCCV931_QTV5152-Debug",
+		"I:/CXXProject/STOCKTEST/GAMMA_V2/demo/catchfly",
+		"I:/CXXTools/Qt/5.15.2/mingw81_64/include/QtANGLE/5.15.2/QtWidgets",
+		"I:/CXXlibs/DATAFRAME/DataFrame-2022-02-28/cmakeinstalled/lib",
+		"I:/CXXTools/Qt/5.15.2/mingw81_64/include",
+		"I:/CXXTools/Qt/5.15.2/mingw81_64/include/QtCore",
+		"I:/CXXTools/Qt/5.15.2/mingw81_64/mkspecs/win32-g++",
+		"I:/CXXTools/Qt/5.15.2/mingw81_64/include/QtWidgets",
+		"I:/CXXTools/Qt/5.15.2/mingw81_64/include/QtGui",
+		"I:/CXXTools/Qt/5.15.2/mingw81_64/include/QtANGLE",
+		"I:/CXXTools/Qt/5.15.2/mingw81_64/include/QtSql",
+		"I:/CXXTools/Qt/5.15.2/mingw81_64/include/QtPrintSupport",
+		"I:/CXXlibs/DATAFRAME/DataFrame-2022-02-28/cmakeinstalled/include",
+		"I:/CXXTools/Qt/5.15.2/mingw81_64/include/QtXml",
+		"I:/CXXTools/Qt/5.15.2/mingw81_64/include/QtNetwork",
+		"I:/CXXTools/Qt/5.15.2/mingw81_64/include/QtConcurrent",
+		"I:/CXXTools/MinGW64/mingw64-800r1_gcc931/include/c++/9.3.1",
+		"I:/CXXTools/MinGW64/mingw64-800r1_gcc931/include/c++/9.3.1/x86_64-w64-mingw32",
+		"I:/CXXTools/MinGW64/mingw64-800r1_gcc931/include/c++/9.3.1/backward",
+		"I:/CXXTools/MinGW64/mingw64-800r1_gcc931/lib/gcc/x86_64-w64-mingw32/9.3.1/include",
+		"I:/CXXTools/MinGW64/mingw64-800r1_gcc931/include",
+		"I:/CXXTools/MinGW64/mingw64-800r1_gcc931/lib/gcc/x86_64-w64-mingw32/9.3.1/include-fixed",
+		"I:/CXXTools/MinGW64/mingw64-800r1_gcc931/x86_64-w64-mingw32/include"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"I:/CXXTools/MinGW64/mingw64-800r1_gcc931/bin/g++.exe",
+		"-dM",
+		"-E",
+		"-c",
+		"I:/CXXTools/Qt/Tools/CMake_64/share/cmake-3.21/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "I:/CXXProject/STOCKTEST/GAMMA_V2/demo/build-catchfly-MinGW64V800r1_GCCV931_QTV5152-Debug/catchfly_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 2,
+	"PARSE_CACHE_FILE" : "I:/CXXProject/STOCKTEST/GAMMA_V2/demo/build-catchfly-MinGW64V800r1_GCCV931_QTV5152-Debug/CMakeFiles/catchfly_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "I:/CXXTools/Qt/5.15.2/mingw81_64/bin/moc.exe",
+	"QT_UIC_EXECUTABLE" : "I:/CXXTools/Qt/5.15.2/mingw81_64/bin/uic.exe",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 15,
+	"SETTINGS_FILE" : "I:/CXXProject/STOCKTEST/GAMMA_V2/demo/build-catchfly-MinGW64V800r1_GCCV931_QTV5152-Debug/CMakeFiles/catchfly_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"I:/CXXProject/STOCKTEST/GAMMA_V2/demo/catchfly/Board/containsshow/CandleBoardContains.cpp",
+			"MU",
+			null
+		],
+		[
+			"I:/CXXProject/STOCKTEST/GAMMA_V2/demo/catchfly/Plot/CandleCreatorDF.cpp",
+			"MU",
+			null
+		],
+		[
+			"I:/CXXProject/STOCKTEST/GAMMA_V2/demo/catchfly/RealTime/RealtimeData.cpp",
+			"MU",
+			null
+		],
+		[
+			"I:/CXXProject/STOCKTEST/GAMMA_V2/demo/catchfly/RealTime/RealtimeMonitor.cpp",
+			"MU",
+			null
+		],
+		[
+			"I:/CXXProject/STOCKTEST/GAMMA_V2/demo/catchfly/RealTime/boardsnapshot.cpp",
+			"MU",
+			null
+		],
+		[ "I:/CXXProject/STOCKTEST/GAMMA_V2/demo/catchfly/main.cpp", "MU", null ],
+		[
+			"I:/CXXProject/STOCKTEST/GAMMA_V2/demo/catchfly/mainwindow.cpp",
+			"MU",
+			null
+		],
+		[
+			"I:/CXXProject/STOCKTEST/GAMMA_V2/demo/catchfly/qcustomplot.cpp",
+			"MU",
+			null
+		]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"VERBOSITY" : 0
+}

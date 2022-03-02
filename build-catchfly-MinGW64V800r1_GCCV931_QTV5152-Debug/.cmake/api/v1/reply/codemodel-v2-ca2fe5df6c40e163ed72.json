@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "catchfly",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "catchfly::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-catchfly-Debug-c658d3f2d4f1ba5e4ba0.json",
+					"name" : "catchfly",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "catchfly_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-catchfly_autogen-Debug-21f90ad125314b1b7aea.json",
+					"name" : "catchfly_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "catchfly_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-catchfly_autogen_timestamp_deps-Debug-708b7b5068add79a9cc7.json",
+					"name" : "catchfly_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "I:/CXXProject/STOCKTEST/GAMMA_V2/demo/build-catchfly-MinGW64V800r1_GCCV931_QTV5152-Debug",
+		"source" : "I:/CXXProject/STOCKTEST/GAMMA_V2/demo/catchfly"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

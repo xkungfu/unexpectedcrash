@@ -1,0 +1,5 @@
+I:/CXXProject/STOCKTEST/GAMMA_V2/demo/build-catchfly-MinGW64V800r1_GCCV931_QTV5152-Debug/CMakeFiles/rebuild_cache.dir
+I:/CXXProject/STOCKTEST/GAMMA_V2/demo/build-catchfly-MinGW64V800r1_GCCV931_QTV5152-Debug/CMakeFiles/catchfly.dir
+I:/CXXProject/STOCKTEST/GAMMA_V2/demo/build-catchfly-MinGW64V800r1_GCCV931_QTV5152-Debug/CMakeFiles/edit_cache.dir
+I:/CXXProject/STOCKTEST/GAMMA_V2/demo/build-catchfly-MinGW64V800r1_GCCV931_QTV5152-Debug/CMakeFiles/catchfly_autogen_timestamp_deps.dir
+I:/CXXProject/STOCKTEST/GAMMA_V2/demo/build-catchfly-MinGW64V800r1_GCCV931_QTV5152-Debug/CMakeFiles/catchfly_autogen.dir
